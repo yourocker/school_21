@@ -1,0 +1,5 @@
+Credentials cache: API:F011B166-37D6-47CE-979A-B8FB17932779
+        Principal: medward@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Mar  2 13:20:01 2021  Mar  2 23:19:47 2021  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
